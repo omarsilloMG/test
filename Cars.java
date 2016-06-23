@@ -3,6 +3,7 @@
 //Course 02158 Concurrent Programming, DTU, Fall 2015
 
 //Hans Henrik Løvengreen     Oct 6,  2015
+// OmarsilloMG added a comment here
 
 
 import java.awt.Color;
